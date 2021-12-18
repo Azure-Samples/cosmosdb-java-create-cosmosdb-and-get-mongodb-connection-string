@@ -12,7 +12,7 @@ extensions:
 # Getting Started with Cosmos - Create Cosmos DB With Kind Mongo DB - in Java #
 
 
-  Azure CosmosDB sample for high availability.
+  Azure Cosmos DB sample for high availability.
    - Create a CosmosDB configured with MongoDB kind.
    - Get the mongodb connection string
    - Delete the CosmosDB.
