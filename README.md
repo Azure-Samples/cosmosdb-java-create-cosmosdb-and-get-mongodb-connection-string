@@ -9,7 +9,7 @@ extensions:
   platforms: java
 ---
 
-# Getting Started with Cosmos - Create Cosmos DB With Kind Mongo DB - in Java #
+# Getting Started with Cosmos - Create Cosmos DB With Kind MongoDB - in Java #
 
 
   Azure CosmosDB sample for high availability.
